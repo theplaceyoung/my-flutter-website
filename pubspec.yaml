@@ -1,0 +1,20 @@
+name: my_website
+description: A Flutter project for a website
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/logo_draft_transparentBG.png
+    # - assets/home_image.png
+    # - assets/about-image.png
